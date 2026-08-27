@@ -16,12 +16,12 @@
 ---
 
 ## About Me
+I’m a Software Engineer and recent TEK-UP graduate passionate about building full-stack applications across web, mobile, and AI. I enjoy solving real-world problems and turning ideas into clean, functional, and scalable products.
 
-I'm a software engineering student at **TEK-UP** with a passion for building full-stack applications across web, mobile, and AI domains. I enjoy tackling real-world problems — from intelligent study tools to school management systems — and turning them into clean, functional products.
-
-- 🔭 &nbsp;Currently working on AI-integrated applications using LLMs and natural language processing
-- 🌱 &nbsp;Exploring cross-platform mobile development with Flutter and Ionic
-- 🛠️ &nbsp;Comfortable across the stack: from REST APIs to responsive UIs to database design
+- 🚀 &nbsp;Building full-stack and AI-powered applications
+- 🤖 &nbsp;Exploring LLMs, RAG, and intelligent AI agents
+- 🛠️ &nbsp;Experienced across the stack: APIs, responsive UIs, databases, and cloud.
+- ⚡ &nbsp; Fast learner, always eager to explore and master new technologies
 - 📍 &nbsp;Based in Tunisia
 
 ---
@@ -33,8 +33,7 @@ I'm a software engineering student at **TEK-UP** with a passion for building ful
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
@@ -44,8 +43,7 @@ I'm a software engineering student at **TEK-UP** with a passion for building ful
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 **Databases & Backend**
