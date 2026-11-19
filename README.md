@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sirine Abdelkhalek 👋</h1>
 
 <p align="center">
-  <em>Full-Stack Developer &nbsp;·&nbsp; Mobile & AI Enthusiast &nbsp;·&nbsp; TEK-UP Student</em>
+  <em>Full-Stack Developer &nbsp;·&nbsp; Mobile & AI Enthusiast</em>
 </p>
 
 <p align="center">
